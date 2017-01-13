@@ -1,5 +1,7 @@
 package reinforce.core.qmodels;
 
+import org.deeplearning4j.nn.multilayer.MultiLayerNetwork;
+import org.nd4j.linalg.api.ndarray.INDArray;
 import reinforce.core.Pair;
 import reinforce.core.QModel;
 import reinforce.core.SARSA;

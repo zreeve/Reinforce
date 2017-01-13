@@ -11,12 +11,7 @@
     <dependencies>
         <dependency>
                 <groupId>org.deeplearning4j</groupId>
-                <artifactId>deeplearning4j-parent</artifactId>
-                <version>0.7.0</version>
-        </dependency>
-        <dependency>
-                <groupId>org.deeplearning4j</groupId>
-                <artifactId>deeplearning4j-nlp-parent</artifactId>
+                <artifactId>deeplearning4j-core</artifactId>
                 <version>0.7.0</version>
         </dependency>
     </dependencies>

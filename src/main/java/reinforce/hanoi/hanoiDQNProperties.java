@@ -1,5 +1,7 @@
 package reinforce.hanoi;
 
+import org.deeplearning4j.nn.api.OptimizationAlgorithm;
+import org.deeplearning4j.nn.conf.Updater;
 import reinforce.core.Pair;
 import reinforce.core.qmodels.DQNProperties;
 
